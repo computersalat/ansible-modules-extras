@@ -29,8 +29,8 @@ DOCUMENTATION = '''
 ---
 module: zypper_repository
 author: "Matthias Vogelgesang (@matze)"
-version_added: "1.4"
 short_description: Add, modify and remove zypper repositories
+version_added: "1.5"
 description:
     - Add, modify or remove zypper repositories on SLE and openSUSE
 options:
